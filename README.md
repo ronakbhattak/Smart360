@@ -1,6 +1,6 @@
 # smart
 
-A new Flutter application.
+A new Flutter application. It is made for utlities billing and handling services.
 
 ## Getting Started
 
